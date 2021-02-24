@@ -3,6 +3,8 @@ layout: post
 title: Nature and philosophy
 ---
 
+##Introducción
+
 Si es cierto que construimos ficciones para comprender el mundo y que no podemos distinguir
 qué es la cosa en sí -si tal cosa existe- de la ficción, ¿por qué la ciencia funciona? Es decir, ¿por qué
 la ciencia tiene una capacidad explicativa y transformadora del mundo, que aparentemente aventaja
