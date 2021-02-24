@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Suelo escribir cosas sobre filosofía en general.
 
-### More Information
+### Más info
 
-A place to include any other types of information that you'd like to include about yourself.
+sisisisis 
 
 ### Contact me
 
