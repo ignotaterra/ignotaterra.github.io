@@ -3,7 +3,7 @@ layout: post
 title: Nature and philosophy
 ---
 
-##Introducción
+## Introducción
 
 Si es cierto que construimos ficciones para comprender el mundo y que no podemos distinguir
 qué es la cosa en sí -si tal cosa existe- de la ficción, ¿por qué la ciencia funciona? Es decir, ¿por qué
@@ -21,6 +21,9 @@ naturaleza, aunque sirva para elaborar ficciones sobre el mundo, evidentemente s
 conexión con el contexto que es funcional para nuestras necesidades vitales y cognoscitivas. Y, a su
 vez, esta tesis también explica porqué cierta universalidad cognitiva, propia de nuestra especie, es
 una característica inherente a la racionalidad.
+
+## Sobre 
+
 Llegados a este punto, podemos responder a nuestros primeros interrogantes con certeza.
 Podemos decir que existe cierta racionalidad que se manifiesta en el mundo que, como seres
 humanos, conocemos. Después de todo, en términos adaptativos y funcionales, esto parece ser un
