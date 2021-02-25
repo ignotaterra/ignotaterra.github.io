@@ -1,6 +1,6 @@
 ---
-layout:post
-title: Citas taoístas de Los Vagabundos del Dharma de Kerouac
+layout: post
+title: 12 citas taoístas en Los vagabundos del Dharma de Kerouac
 ---
 
 Leer Los vagabundos del Dharma no deja de ser una forma simple y fácil de adentrarse en las filosofías orientales,
