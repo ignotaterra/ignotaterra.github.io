@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $black;
-  font: 18px/1.4 $helvetica;
+	background: #000;
+  font: 18px/1.4 $monospace;
   color: $white;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $white;
+  font-family: $monospace;
+  color: $pink;
   font-weight: bold;
 
   line-height: 1.7;
@@ -45,22 +45,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 28px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
-}
-
-h3 {
   font-size: 20px;
 }
 
-h4 {
+h3 {
   font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
   color: $gray;
 }
 
@@ -122,11 +122,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 
@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin-right: 15px;
 
   @include mobile {
