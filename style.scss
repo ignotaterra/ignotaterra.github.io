@@ -19,7 +19,7 @@ html {
 
 body {
 	background: #2d3436;
-  font: 18px/1.4 $Monospace;
+  font: 18px/1.4 monospace;
   color: $white;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $Monospace;
+  font-family: monospace;
   color: $pink;
   font-weight: bold;
 
