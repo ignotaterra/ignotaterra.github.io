@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Lo que hablamos/pensamos puede ser instintivo?
+title: ¿Puede el lenguaje ser instintivo?
 ---
 
 Quizás nos podríamos poner de acuerdo respecto a un par de características que
