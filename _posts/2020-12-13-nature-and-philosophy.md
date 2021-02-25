@@ -208,3 +208,15 @@ aunque no necesariamente mediadas por signos lingüísticos, suponen también un
 para nuestra especie. Y es justamente en este sentido -cuando hablamos de representación,
 designación o simbolización- que podemos decir que el lenguaje puede entenderse como un escultor
 del pensamiento, más allá de que Pinker lo entienda o no así.
+
+### Bibliografía
+
+CHOMSKY, N., *Sobre la naturaleza y el lenguaje*, Cambridge University Press, 2001, Madrid, España, pp. 45-55.
+
+MUÑOZ-RENGEL, “Los << apriorismos >> kantianos bajo juicio cognitivo” en Revista de Filosofía, 3a época, vol. XI
+(1999), núm. 21., Servicio de Publicaciones, Universidad Complutense, Madrid, España.
+
+PINKER, S., *El instinto del lenguaje*, Alianza Editorial, 1994, pp. 15-24.
+
+PINKER, S., *El instinto del lenguaje*, Traducción de José Manuel Igoa González, Editor digital Oronet, ePub base r2.1,
+1994, pp 23-53, 460-490.
