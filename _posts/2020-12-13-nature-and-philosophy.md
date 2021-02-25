@@ -133,7 +133,7 @@ facultades mentales tienen su propio diseño universal. La genética evolucionis
 afirma Pinker, dan pruebas de ello. De esta manera, la tesis de la inexistencia de una condición
 humana defendida por el relativismo parece quedar anulada.
 
-**2. La estructura de la mente**
+### 2. La estructura de la mente
 
 Podemos decir que la mente es el conjunto de actividades cognitivas que encierran
 procesos tales como la percepción, el pensamiento, la conciencia, la memoria, la imaginación, etc.
