@@ -11,7 +11,8 @@ que el Universo es así. ¿Sabe lo que pensaría usted?
 Usted pensaría que no entiende una palabra de
 física cósmica pero que yo debo tener razón.*
 
--Abelardo Castillo, El Evangelio según Van Hutten
+-Abelardo Castillo, 
+*El Evangelio según Van Hutten*
 
 En 1961, Stanley Milgram, psicólogo de la Universidad de Yale, comenzó a llevar a
 cabo una serie de experimentos de psicología social. Su objetivo era comprender la disposición de
