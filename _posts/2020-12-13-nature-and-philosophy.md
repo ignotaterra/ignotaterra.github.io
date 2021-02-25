@@ -35,6 +35,7 @@ De tal forma, existen dos postulados implícitos en la teoría biológica del co
 **1)** Todos los seres vivientes están dotados de determinadas estructuras innatas. Ningún ser
 animado es, en el momento de su nacimiento, una ‘Tábula Rasa’, sino que viene equipado
 con disposiciones específicas que hacen posible el aprendizaje individual.
+
 **2)** Las estructuras innatas son, por su parte, frutos de la evolución; son resultados de la
 selección natural, la cual sostiene a aquellos ‘productos de partida’ que capacitan al
 organismo para la vida y la supervivencia.
