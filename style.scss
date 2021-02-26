@@ -194,11 +194,12 @@ img {
   float: none;
   margin: 3px 0;
   color: #ffffff;
+  display: block;
   cursor: pointer;
   font-family: $helvetica;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1.5px;
+  letter-spacing: 2px;
 }
 
 .site-description {
