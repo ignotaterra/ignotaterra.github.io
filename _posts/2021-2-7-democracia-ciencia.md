@@ -11,6 +11,7 @@ que el Universo es así. ¿Sabe lo que pensaría usted?
 Usted pensaría que no entiende una palabra de
 física cósmica pero que yo debo tener razón.*
 
+
 -Abelardo Castillo, 
 *El Evangelio según Van Hutten*
 
