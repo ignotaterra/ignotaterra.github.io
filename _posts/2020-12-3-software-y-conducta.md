@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Puede el software determinar nuestra conducta?
+title: ¿El software determina nuestra conducta?
 ---
 
 La libertad, tal como hoy podemos pensarla, remite a una noción más moderada en
