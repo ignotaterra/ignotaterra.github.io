@@ -15,6 +15,7 @@ física cósmica pero que yo debo tener razón.*
 -Abelardo Castillo, 
 *El Evangelio según Van Hutten*
 
+
 En 1961, Stanley Milgram, psicólogo de la Universidad de Yale, comenzó a llevar a
 cabo una serie de experimentos de psicología social. Su objetivo era comprender la disposición de
 un participante para obedecer órdenes de una autoridad, aún cuando éstas pudieran generarle
