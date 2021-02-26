@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Sobre este blog
 permalink: /about/
 ---
-
-### Sobre este blog
 
 *Terra incógnita* o *terra ignota* (que en latín significa **tierra desconocida**), es una inscripción que se solía utilizar en los
 planisferios para hacer referencia a aquellos territorios que lxs occidentales aún no habían explorado. Éstos territorios, como cabe 
@@ -39,6 +37,7 @@ La idea era encontrar un espacio que me permitiese publicar sin tener que preocu
 ### Hosting y diseño
 
 Host: GitHub
+
 Desarrollo y diseño: barryclark | iraireale
 
 
