@@ -38,7 +38,9 @@ La idea era encontrar un espacio que me permitiese publicar sin tener que preocu
 
 Host: GitHub
 
-Desarrollo y diseño: barryclark | iraireale
+Desarrollo: barryclark
+
+Diseño: barryclark e ignotaterra 
 
 
 ### Contactos
