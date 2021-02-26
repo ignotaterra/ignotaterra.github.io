@@ -191,8 +191,8 @@ img {
 }
 
 .site-name {
-  float: center;
-  margin: 0;
+  float: none;
+  margin: 3px 0;
   color: #ffffff;
   cursor: pointer;
   font-family: $helvetica;
@@ -211,8 +211,9 @@ img {
 }
 
 nav {
-  float: center;
-  padding-top: 2px;
+  float: none;
+  margin-top: 9px;
+  display: block;
   font-family: $helveticaNeue;
   font-size: 18px;
 
