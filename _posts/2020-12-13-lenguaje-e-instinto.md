@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Puede el lenguaje ser instintivo?
+title: ¿El lenguaje humano es instintivo?
 ---
 
 Quizás nos podríamos poner de acuerdo respecto a un par de características que
