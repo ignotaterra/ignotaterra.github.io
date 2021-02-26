@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 
+title: Democracia y ciencia: el dialogo necesario
 ---
-
-### Ciencia y democracia: el dialogo necesario
 
 *Imagínese que yo fuera, digamos, Einstein.
 Usted me pregunta por la forma del Universo (...)
