@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Democracia y ciencia: el dialogo necesario
+title: Democracia y ciencia, el dialogo necesario
 ---
 
 *Imagínese que yo fuera, digamos, Einstein.
