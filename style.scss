@@ -191,13 +191,14 @@ img {
 }
 
 .site-name {
+  float: center;
   margin: 0;
   color: #ffffff;
   cursor: pointer;
   font-family: $helvetica;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
 }
 
 .site-description {
@@ -210,7 +211,7 @@ img {
 }
 
 nav {
-  float: right;
+  float: center;
   font-family: $helveticaNeue;
   font-size: 18px;
 
