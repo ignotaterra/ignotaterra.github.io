@@ -1,15 +1,13 @@
 ---
 layout: post
-title: El taoísmo en Los vagabundos del Dharma
+title: 12 frases de Los vagabundos del Dharma para comprender el taoísmo y el budismo zen 
 ---
 
 Leer Los vagabundos del Dharma es una forma sencilla de adentrarse en las filosofías orientales,
-espeicalmente en el budismo zen y en el taoísmo. De la mano de Jack Kerouac y del poeta y 
+especialmente en el budismo zen y en el taoísmo. De la mano de Jack Kerouac y del poeta y 
 naturalista Gary Snyder -que inspiró el personaje de Japhy Ryder-, aprendí a comprender la relación
 intrínseca que existe entre la naturaleza -con sus montañas y ríos- y gran parte del pensamiento
 oriental. Dejo por aquí 12 frases que me inspiraron y enseñaron otro modo de pensar y/o vivir. 
-
-### 12 frases de Los vagabundos del Dharma para comprender el taoísmo y el budismo zen 
 
 **1.** "Gran Ciruelo, el maestro zen, fue interrogado. Se le preguntó cuál era el gran significado del budismo,
 y él dijo que flores de junco, tallos de sauce, agujas de bambú, hilos de lino, en otras palabras, agárrate,
