@@ -3,7 +3,7 @@ layout: post
 title: Mujeres tierra adentro. Alexandra David-Neel. Parte I. Notas biográficas.
 ---
 
-Este es el primero de una serie de posts que pienso ir subiendo a esta sección que se llama **Mujeres Tierra Adentro**. La idea es explorar y viajar junto a diferentes mujeres que hicieron historia gracias a su carácter de exploradoras, viajeras o aventureras. Y, de esta forma, voy a tratar de entender cómo impactó el nomadismo y el entorno geográfico en cada una de sus vidas, que es -después de todo- el interés central de este blog. No por nada se llama Ignota Terra. 
+Este es el primero de una serie de posts que pienso ir subiendo a esta sección de **Mujeres Tierra Adentro**. La idea es explorar y viajar junto a diferentes mujeres que hicieron historia gracias a su carácter de exploradoras, viajeras o aventureras. Y, de esta forma, voy a tratar de entender cómo impactó el nomadismo y el entorno geográfico en cada una de sus vidas, que es -después de todo- el interés central de este blog. No por nada se llama Ignota Terra. 
 
 Tengo que aclarar que creo que existe un denominador común en cada una de las mujeres de las que voy a hablar en esta sección: su relación con la tierra y el nomadismo excede el mero escapismo del viajerx modernx o el interés por oficio del deportista y la/el científicx. O, por lo menos, así se me presentó a mí, y de ahí gran parte de mi interés.
 
