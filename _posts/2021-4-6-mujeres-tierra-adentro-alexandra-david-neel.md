@@ -15,6 +15,8 @@ Tengo que aclarar que creo que existe un denominador común en cada una de las m
 
 -Alexandra David Neel, *Carta a Philippe Neel sobre El Tíbet*
 
+
+
 Después de años de búsquedas y de armar listas sobre ‘mujeres viajeras, exploradoras y/o aventureras’, me encontré con Alexandra. No saber nada de ella hasta este año me re sorprendió. Alexandra rompe con el estereotipo de mujeres deportistas o científicas que recorren y exploran lugares por razones relacionadas a sus oficios, y a la vez se inscribe en una época en la cual no era común encontrarse a mujeres ‘vagabundas’. Las motivaciones de Alexandra me parecieron desde el principio más ‘impenetrables’ que las de otras viajeras. 
 
 Alexandra nace un 24 de Octubre del año 1868 en Saint-Mandé, Francia, y es inscripta con el nombre de Louise Eugénie Alexandrine Marie David, aunque más tarde decide sustituirlo por Alexandra David-Neel -apellido que enlazaría el suyo con el de su marido. Algunas notas biográficas -y quizá también el devenir del mito mismo-, señalan que ya a los 5 años experimentó un primer acto de fuga y desobediente liberación, escapándose de la casa paterna para internarse en los bosques de Vincennes.
