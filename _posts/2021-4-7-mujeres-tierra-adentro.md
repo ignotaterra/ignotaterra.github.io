@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mujeres tierra adentro: Alexandra David-Neel, escritora, anarquista, orientalista y nómada. Parte 1: Apuntes biográficos.
+title: Mujeres tierra adentro
 ---
 
 Este es el primero de una serie de posts que pienso ir subiendo a esta sección que se llama **Mujeres Tierra Adentro**. La idea es explorar y viajar junto a diferentes mujeres que hicieron historia gracias a su carácter de exploradoras, viajeras o aventureras. Y, de esta forma, voy a tratar de entender cómo impactó el nomadismo y el entorno geográfico en cada una de sus vidas, que es -después de todo- el interés central de este blog. No por nada se llama Ignota Terra. 
