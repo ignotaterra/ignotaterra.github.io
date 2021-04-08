@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mujeres tierra adentro: Alexandra David-Neel, escritora, anarquista, orientalista y nómada. Parte 1: Apuntes biográficos.
+title: Mujeres tierra adentro: Alexandra David-Neel
 ---
 
 Este es el primero de una serie de posts que pienso ir subiendo a esta sección que se llama **Mujeres Tierra Adentro**. La idea es explorar y viajar junto a diferentes mujeres que hicieron historia gracias a su carácter de exploradoras, viajeras o aventureras. Y, de esta forma, voy a tratar de entender cómo impactó el nomadismo y el entorno geográfico en cada una de sus vidas, que es -después de todo- el interés central de este blog. No por nada se llama Ignota Terra. 
@@ -8,9 +8,11 @@ Este es el primero de una serie de posts que pienso ir subiendo a esta sección 
 Tengo que aclarar que creo que existe un denominador común en cada una de las mujeres de las que voy a hablar en esta sección: su relación con la tierra y el nomadismo excede el mero escapismo del viajerx modernx o el interés por oficio del deportista y la/el científicx. O, por lo menos, así se me presentó a mí, y de ahí gran parte de mi interés.
 
 
+
 ### Notas sobre la vida en las montañas de una nómada anarco-orientalista 
 
-*"Verdaderamente, tengo nostalgia de aquella tierra que no es mía. Estoy obsesionada con las estepas, la soledad, las nieves eternas y ese inmenso cielo azul ¡allá arriba!". *
+*"Verdaderamente, tengo nostalgia de aquella tierra que no es mía. Estoy obsesionada con las estepas, la soledad, las nieves eternas y ese inmenso cielo azul ¡allá arriba!"*
+
 -Alexandra David Neel, *Carta a Philippe Neel sobre El Tíbet*
 
 Después de años de búsquedas y de armar listas sobre ‘mujeres viajeras, exploradoras y/o aventureras’, me encontré con Alexandra. No saber nada de ella hasta este año me re sorprendió. Alexandra rompe con el estereotipo de mujeres deportistas o científicas que recorren y exploran lugares por razones relacionadas a sus oficios, y a la vez se inscribe en una época en la cual no era común encontrarse a mujeres ‘vagabundas’. Las motivaciones de Alexandra me parecieron desde el principio más ‘impenetrables’ que las de otras viajeras. 
